@@ -3,46 +3,46 @@ A repository with code and notes from Lazy Programmer's machine leaning courses 
 
 * [Linear Regression in Python](https://deeplearningcourses.com/c/data-science-linear-regression-in-python)
 
-* Linear Programming in Linear Regression in Python
+* [Linear Programming in Linear Regression in Python](https://deeplearningcourses.com/c/linear-programming-python)
 
-* Logistic Regression in Python
+* [Logistic Regression in Python](https://deeplearningcourses.com/c/data-science-logistic-regression-in-python)
 
-* Data Science: Supervised Machine Learning in Python
+* [Data Science: Supervised Machine Learning in Python](https://deeplearningcourses.com/c/data-science-supervised-machine-learning-in-python)
 
-* Bayesian Machine Learning in Python: A/B Testing
+* [Bayesian Machine Learning in Python: A/B Testing](https://deeplearningcourses.com/c/bayesian-machine-learning-in-python-ab-testing)
 
-* Deep Learning in Python
+* [Deep Learning in Python](https://deeplearningcourses.com/c/data-science-deep-learning-in-python)
 
-* Modern Deep Learning in Python
+* [Modern Deep Learning in Python](https://deeplearningcourses.com/c/data-science-deep-learning-in-theano-tensorflow)
 
-* Ensemble Machine Learning in Python: Random Forest and AdaBoost
+* [Ensemble Machine Learning in Python: Random Forest and AdaBoost](https://deeplearningcourses.com/c/machine-learning-in-python-random-forest-adaboost)
 
-* Convolutional Neural Networks in Python
+* [Convolutional Neural Networks in Python](https://deeplearningcourses.com/c/deep-learning-convolutional-neural-networks-theano-tensorflow)
 
-* Cluster Analysis and Unsupervised Machine Learning in Python
+* [Cluster Analysis and Unsupervised Machine Learning in Python](https://deeplearningcourses.com/c/cluster-analysis-unsupervised-machine-learning-python)
 
-* Unsupervised Deep Learning in Python
+* [Unsupervised Deep Learning in Python](https://deeplearningcourses.com/c/unsupervised-deep-learning-in-python)
 
-* Data Science: Natural Language Processing (NLP) in Python
+* [Data Science: Natural Language Processing (NLP) in Python](https://deeplearningcourses.com/c/data-science-natural-language-processing-in-python)
 
-* Hidden Markov Models in Python
+* [Hidden Markov Models in Python](https://deeplearningcourses.com/c/unsupervised-machine-learning-hidden-markov-models-in-python)
 
-* Artificial Intelligence: Reinforcement Learning in Python
+* [Artificial Intelligence: Reinforcement Learning in Python](https://deeplearningcourses.com/c/artificial-intelligence-reinforcement-learning-in-python)
 
-* Recurrent Neural Networks in Python
+* [Recurrent Neural Networks in Python](https://deeplearningcourses.com/c/deep-learning-recurrent-neural-networks-in-python)
 
-* Deep Learning with Natural Language Processing in Python
+* [Deep Learning with Natural Language Processing in Python](https://deeplearningcourses.com/c/natural-language-processing-with-deep-learning-in-python)
 
-* Advanced AI: Deep Reinforcement Learning in Python
+* [Advanced AI: Deep Reinforcement Learning in Python](https://deeplearningcourses.com/c/deep-reinforcement-learning-in-python)
 
-* Deep Learning: GANs and Variational Autoencoders
+* [Deep Learning: GANs and Variational Autoencoders](https://deeplearningcourses.com/c/deep-learning-gans-and-variational-autoencoders)
 
-* Deep Learning: Advanced Computer Vision
+* [Deep Learning: Advanced Computer Vision](https://deeplearningcourses.com/c/advanced-computer-vision)
 
-* Deep Learning: Advanced NLP and RNNs
+* [Deep Learning: Advanced NLP and RNNs](https://deeplearningcourses.com/c/deep-learning-advanced-nlp)
 
-* Recommender Systems and Deep Learning in Python
+* [Recommender Systems and Deep Learning in Python](https://deeplearningcourses.com/c/recommender-systems)
 
-* Machine Learning and AI: Support Vector Machines in Python
+* [Machine Learning and AI: Support Vector Machines in Python](https://deeplearningcourses.com/c/support-vector-machines-in-python)
 
-* Cutting-Edge AI: Deep Reinforcement Learning in Python
+* [Cutting-Edge AI: Deep Reinforcement Learning in Python](https://deeplearningcourses.com/c/cutting-edge-artificial-intelligence)
