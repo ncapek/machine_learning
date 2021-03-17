@@ -1,5 +1,5 @@
 # machine_learning
-A repository with code and notes from Lazy Programmer's machine leaning courses on Udemy
+A repository with code and notes from [Lazy Programmer's](https://github.com/lazyprogrammer) machine leaning courses on Udemy.
 Each notebook contains a both theory and code.
 These courses are by far the best I found so far, because they force the student through the theory and into coding an implementation from scratch, instead of only showing the student how to rely on a machine learning API. 
 
