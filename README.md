@@ -1,9 +1,9 @@
 # machine_learning
 A repository with code and notes from Lazy Programmer's machine leaning courses on Udemy
 
-- [ ] [Linear Regression in Python](https://deeplearningcourses.com/c/data-science-linear-regression-in-python)
+- [ ] [Linear Regression in Python](https://github.com/ncapek/machine_learning/blob/main/linear_regression/linear_regression.ipynb) [link](https://deeplearningcourses.com/c/data-science-linear-regression-in-python)
 
-- [ ] [Linear Programming in Linear Regression in Python](https://deeplearningcourses.com/c/linear-programming-python)
+- [ ] [Linear Programming in Linear Regression in Python] [link] (https://deeplearningcourses.com/c/linear-programming-python)
 
 - [ ] [Logistic Regression in Python](https://deeplearningcourses.com/c/data-science-logistic-regression-in-python)
 
