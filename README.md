@@ -7,8 +7,7 @@ These courses are by far the best I found so far, because they force the student
 
 - [ ] Linear Programming in Linear Regression in Python [(course link)](https://deeplearningcourses.com/c/linear-programming-python)
 
-- [ ] Logistic Regression in Python
-(https://github.com/ncapek/machine_learning/blob/main/logistic_regression/logistic_regression.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-logistic-regression-in-python)
+- [ ] Logistic Regression in Python[https://github.com/ncapek/machine_learning/blob/main/logistic_regression/logistic_regression.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-logistic-regression-in-python)
 
 - [ ] Data Science: Supervised Machine Learning in Python [(course link)](https://deeplearningcourses.com/c/data-science-supervised-machine-learning-in-python)
 
