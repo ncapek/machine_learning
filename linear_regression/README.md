@@ -2,9 +2,9 @@
 Contains a jupyter notebook containing theory and code behind linear regression.
 Includes:
 
-- Linear regression
+- Machine learning introduction
     - comparison between statistics and machine learning
-    - supervised vs unsupervise learning
+    - supervised vs unsupervised learning
 - 1D linear regression
     - problem definition
     - calculus background
@@ -16,10 +16,11 @@ Includes:
     - problem definition
     - derivation of closed form solution
     - code
-    - polynomial regressions
+    - polynomial regression
 - Practical concerns
     - interpretation of weights
-    - generalization, train/val/test sets
+    - generalization
+    - train/val/test sets
     - one hot encoding
     - L2 regularization
     - dummy variable trap
