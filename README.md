@@ -9,7 +9,7 @@ These courses are by far the best I found so far, because they force the student
 
 - [ ] [Logistic Regression in Python](https://github.com/ncapek/machine_learning/blob/main/logistic_regression/logistic_regression.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-logistic-regression-in-python)
 
-- [ ] Data Science: Supervised Machine Learning in Python [(course link)](https://deeplearningcourses.com/c/data-science-supervised-machine-learning-in-python)
+- [ ] [Data Science: Supervised Machine Learning in Python](https://github.com/ncapek/machine_learning/blob/main/supervised_learning/supervised_learning.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-supervised-machine-learning-in-python)
 
 - [ ] Bayesian Machine Learning in Python: A/B Testing [(course link)](https://deeplearningcourses.com/c/bayesian-machine-learning-in-python-ab-testing)
 
