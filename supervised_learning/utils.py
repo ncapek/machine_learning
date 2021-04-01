@@ -7,7 +7,7 @@ def get_data(limit=None):
     params limit: upper limit of datapoints in case we want less
     '''
     print("Reading and transforming data...")
-    df = pd.read_csv('../data/mnist.csv')
+    df = pd.read_csv('../data/large_files/mnist.csv')
     data = df.values
     np.random.shuffle(data)
     X = data[:, 1:] / 255.0 #data is 0..255
