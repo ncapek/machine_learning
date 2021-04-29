@@ -11,7 +11,7 @@ These courses are by far the best I found so far, because they force the student
 
 - [ ] [Data Science: Supervised Machine Learning in Python](https://github.com/ncapek/machine_learning/blob/main/supervised_learning/supervised_learning.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-supervised-machine-learning-in-python)
 
-- [ ] Bayesian Machine Learning in Python: A/B Testing [(course link)](https://deeplearningcourses.com/c/bayesian-machine-learning-in-python-ab-testing)
+- [ ] [Bayesian Machine Learning in Python: A/B Testing](https://github.com/ncapek/machine_learning/blob/main/bayesian_ML/bayesian_ml.ipynb) [(course link)](https://deeplearningcourses.com/c/bayesian-machine-learning-in-python-ab-testing)
 
 - [ ] Deep Learning in Python [(course link)](https://deeplearningcourses.com/c/data-science-deep-learning-in-python)
 
