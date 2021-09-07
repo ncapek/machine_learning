@@ -3,6 +3,8 @@ A repository with code and notes from [Lazy Programmer's](https://github.com/laz
 Each notebook contains a both theory and code.
 These courses are by far the best I found so far, because they force the student through the theory and into coding an implementation from scratch, instead of only showing the student how to rely on a machine learning API. 
 
+- [ ] Time Series Analysis, Forecasting, and Machine Learning in Python [(course link)](https://lazyprogrammer.me/new-course-time-series-analysis-forecasting-and-machine-learning-in-python/)
+
 - [X] [Linear Regression in Python](https://github.com/ncapek/machine_learning/blob/main/linear_regression/linear_regression.ipynb) [(course link)](https://deeplearningcourses.com/c/data-science-linear-regression-in-python)
 
 - [ ] Linear Programming in Linear Regression in Python [(course link)](https://deeplearningcourses.com/c/linear-programming-python)
